@@ -1,0 +1,32 @@
+
+
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    font-style: oblique;
+    
+}
+
+body{
+    background-color: rgb(92, 26, 62); 
+    
+}
+
+p{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+h2{
+    font: size 30px;
+    color: beige;
+    font-style: italic;
+}
+
+li{
+    color: black;
+}
+
+ol{
+    border-top-color: black;
+}

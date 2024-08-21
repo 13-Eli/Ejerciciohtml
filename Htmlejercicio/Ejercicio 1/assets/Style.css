@@ -1,0 +1,18 @@
+
+
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 50px 30px 20px 30px ;
+    border: solid;
+    border-color:deeppink ;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+body{
+    background-image: linear-gradient(to left, rgb(158, 34, 189),rgb(242, 253, 80),rgb(16, 184, 235),rgb(196, 47, 146),blue,indigo,rgb(61, 5, 61));
+}
+
